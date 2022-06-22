@@ -31,7 +31,7 @@ The game ends in one of two cases:
 - [Me](https://github.com/anouarharrou)
 
 
-![Logo](https://github.com/anouarharrou/Guess_Game/blob/main/index.php)
+![Logo](https://github.com/anouarharrou/Guess_Game/blob/main/icon.png)
 
 
 
